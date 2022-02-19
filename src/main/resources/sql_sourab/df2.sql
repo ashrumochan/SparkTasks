@@ -1,0 +1,1 @@
+select * from df2;select count(*) from df2;

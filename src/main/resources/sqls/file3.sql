@@ -1,0 +1,5 @@
+select 'T7' as TEST_CASE_ID,'S7' as TEST_SCENARIO, 123 as RECORDS_COUNT,'EXP7' as EXPECTED_RESULT, 'RES7' as TEST_RESULT, current_timestamp() as RUN_TIME;
+
+select 'T8' as TEST_CASE_ID,'S8' as TEST_SCENARIO, 123 as RECORDS_COUNT,'EXP8' as EXPECTED_RESULT, 'RES8' as TEST_RESULT, current_timestamp() as RUN_TIME;
+
+select 'T9' as TEST_CASE_ID,'S9' as TEST_SCENARIO, 123 as RECORDS_COUNT,'EXP9' as EXPECTED_RESULT, 'RES9' as TEST_RESULT, current_timestamp() as RUN_TIME;

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<students>
+   <student id="st101">
+      <name>Gambardella, Matthew</name>
+      <department>1</department>
+   </student>
+	  <student id="st102">
+      <name>Ralls, Kim</name>
+      <department>2</department>
+   </student>
+   <student id="st103">
+      <name>Corets, Eva</name>
+      <department>5</department>
+   </student>
+   <student id="st104">
+      <name>Morris, Chris</name>
+      <department>4</department>
+   </student>
+   <student id="st105">
+      <name>James, Porter</name>
+      <department>3</department>
+   </student>
+   <student id="st106">
+      <name>Randall, Cynthia</name>
+      <department>2</department>
+   </student>
+</students>

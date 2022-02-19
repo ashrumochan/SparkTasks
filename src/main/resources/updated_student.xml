@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<students>
+   <student id="st101">
+      <name>Gambardella, Matthew</name>
+      <department>4</department>
+   </student>
+   <student id="st106">
+      <name>Randall, Cynthia</name>
+      <department>3</department>
+   </student>
+   <student id="st107">
+      <name>Thurman, Paula</name>
+      <department>1</department>
+   </student>
+   <student id="st108">
+      <name>Knorr, Stefan</name>
+      <department>5</department>
+   </student>
+   <student id="st109">
+      <name>Kress, Peter</name>
+      <department>4</department>
+   </student>
+   <student id="st110">
+      <name>O'Brien, Tim</name>
+      <department>3</department>
+   </student>
+   <student id="st111">
+      <name>Lucy, Furr</name>
+      <department>2</department>
+   </student>
+   <student id="st112">
+      <name>Galos, Mike</name>
+      <department>1</department>
+   </student>
+</students>
